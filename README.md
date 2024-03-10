@@ -1,6 +1,9 @@
 # Race Condition Script
 
-This script simulates a basic race condition scenario using Python's asyncio library and the httpx library. Race conditions occur when the outcome of a program depends on the relative timing of events that are not properly synchronized. In this script, multiple asynchronous HTTP requests are sent to a specified URL concurrently, potentially leading to unpredictable behavior due to the interleaving of their execution.
+This script sends parallel HTTP requests but does not specifically demonstrate a race condition scenario where the outcome depends on the timing of the requests, such as with the "last byte wins" scenario.
+
+
+**Caution:** This script is provided for educational purposes only. Race conditions can lead to unpredictable behavior and should be handled with caution. It is important to understand the implications of race conditions in concurrent programming.
 
 ## Usage
 
