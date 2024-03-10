@@ -32,10 +32,3 @@ This script sends parallel HTTP requests but does not specifically demonstrate a
 
 - **Request Body (`body`):**
   Modify the `body` list to include different request bodies. Currently, it contains an empty string, but you can add more bodies if needed.
-
-## Usage
-
-1. **Dependencies Installation:**
-   Ensure you have the `httpx` library installed. If not, you can install it using pip:
-   ```bash
-   pip install httpx
