@@ -6,6 +6,7 @@ This script sends parallel HTTP requests but does not specifically demonstrate a
 **Caution:** This script is provided for educational purposes only. Race conditions can lead to unpredictable behavior and should be handled with caution. It is important to understand the implications of race conditions in concurrent programming. and do not use this script on platforms like Twitter or Facebook... as it may violate their terms of service.
 
 ## Proof
+![Link](https://mmgc.live/topic/79-free-netflix-account-cookies/#comment-156)
 ![Proof](https://github.com/sayfpack13/race-condition/blob/main/proof.png)
 
 
